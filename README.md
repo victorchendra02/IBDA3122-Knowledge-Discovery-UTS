@@ -10,4 +10,4 @@ mlxtend
 ```
 
 ## Visualization Example
-![alternatvie text](output3.jpg)
+![alternatvie text](output4.png)
