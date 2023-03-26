@@ -8,3 +8,6 @@ IBDA3122 Knowledge Discovery UTS. Applying Knowledge Discovery on
 pandasql
 mlxtend
 ```
+
+## Visualization Example
+![alternatvie text](output3.jpg)
